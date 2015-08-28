@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+        align-content: center;
+}
+#myDynamicTable{
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+button{
+	height: 5px;
+	width: 5px;
+}
